@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "gabriel.regalado2809@gmail.com",
+      "password": "Gabriel117$$",
+      "user": "Gabriel",
+      "balance": 2232
+    },
+    {
+      "id": 2,
+      "email": "regalado@gmail.com",
+      "password": "jregalado123",
+      "user": "Jorge",
+      "balance": 1831
+    }
+  ]
+}
