@@ -2,17 +2,31 @@
   "users": [
     {
       "id": 1,
-      "email": "gabriel.regalado2809@gmail.com",
-      "password": "Gabriel117$$",
-      "user": "Gabriel",
-      "balance": 2232
+      "email": "henderson.briggs@geeknet.net",
+      "password": "23derd*334",
+      "user": "Henderson Briggs",
+      "balance": 3585.69
     },
     {
       "id": 2,
-      "email": "regalado@gmail.com",
-      "password": "jregalado123",
-      "user": "Jorge",
-      "balance": 1831
+      "email": "boyd.small@endipine.biz",
+      "password": "_4rhododfj",
+      "user": "Boyd Small",
+      "balance": 3230.56
+    },
+    {
+      "id": 3,
+      "email": "lott.kramer@poshome.us",
+      "password": "34oii+345",
+      "user": "Lott Kramer",
+      "balance": 1668.20
+    },
+    {
+      "id": 4,
+      "email": "gibson.duke@zillar.com",
+      "password": "ndfadsf(d",
+      "user": "Gibson Duke",
+      "balance": 1656.46
     }
   ]
 }
